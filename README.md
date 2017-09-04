@@ -1,7 +1,7 @@
 
 
 <p align="center">
-  <img src="images/learning_path_logo.png" height="120px" alt="My learning path logo">
+  <img src="images/logo_mlp_fill.png" height="120px" alt="My learning path logo">
 </p>
 
 Hello there! Wellcome to my_learning_path
